@@ -1,4 +1,4 @@
-About Me
+**About Me**
 
 Hi, I'm Nandhini – a passionate Data Analyst with hands-on experience in data cleaning, analysis, and visualization. I specialize in transforming complex data into actionable insights to support business decision-making and cost optimization.
 
